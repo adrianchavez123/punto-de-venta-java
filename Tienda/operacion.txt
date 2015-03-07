@@ -1,0 +1,8 @@
+Nombre empresa
+Direccion empresa
+Producto		cantidad		precio
+otro refresco  		5   		15.87
+--------------------
+total		79.35
+
+le atendio   chavez sanchez adrian
